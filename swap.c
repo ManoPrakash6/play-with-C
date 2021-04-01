@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-  int a=51;
-  int b=2;
+ int a=28;
+ int b=2;
 
   //Swapping...
   int temp=a;
